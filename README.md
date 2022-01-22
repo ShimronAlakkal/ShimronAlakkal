@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Shimron.alakkal1804@gmail.com**
 
-- ⚡ Fun fact **I'm just a high-school graduate**
+- ⚡ Fun fact **Girls who can code are awesome**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
