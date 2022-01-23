@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Generative Adverserial Networks and docker**
 
-- 👯 I’m looking to collaborate on **any python/dart based projects**
+- 👯 I’m looking to collaborate on **any python/dart/sql/dl/ai based projects**
 
 - 💬 Ask me about **anything I've got experience in and I'll try to help you**
 
