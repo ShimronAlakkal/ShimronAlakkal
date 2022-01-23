@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a private flutter app**
 
-- 🌱 I’m currently learning **Docker, FastApi and GraphQL**
+- 🌱 I’m currently learning **Generative Adverserial Networks and docker**
 
 - 👯 I’m looking to collaborate on **any python/dart based projects**
 
