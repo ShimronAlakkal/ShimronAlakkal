@@ -9,9 +9,8 @@
 
 - 💬 Ask me about **anything I've got experience in and I'll try to help you**
 
-- 📫 How to reach me **Shimron.alakkal1804@gmail.com**
+- 📫 How to reach me **shimron.alakkal1804@gmail.com**
 
-- ⚡ Fun fact **Girls who can code are awesome**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shimronalakkal&show_icons=true&locale=en&layout=compact" alt="shimronalakkal" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shimronalakkal&show_icons=true&locale=en" alt="shimronalakkal" />
