@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shimron</h1>
-<h3 align="center">I'm a full stack mobile developer (cross-platform) who is greatly interested in deep learning</h3>
+<h3 align="center">I'm a full stack mobile developer (cross-platform) who is greatly interested in techs like deep learning, web3, generative arts,mobile dev...</h3>
 
 - 🔭 I’m currently working on **a private flutter app**
 
-- 🌱 I’m currently learning **Generative Adverserial Networks and docker**
+- 🌱 I’m currently learning **Firebase**
+
+- 📚 My primary stack is **FLUF** (flutter & firebase)
 
 - 👯 I’m looking to collaborate on **any python/dart/sql/dl/ai based projects**
 
