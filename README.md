@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a private flutter app**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Firebase, JS and Node js**
 
 - 📚 My primary stack is **FLUF** (flutter & firebase)
 
