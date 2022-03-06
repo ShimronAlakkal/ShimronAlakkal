@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shimron</h1>
-<h3 align="center">I'm a borke full stack mobile developer (cross-platform) who is greatly interested in techs like deep learning, web3, generative arts,mobile dev...</h3>
+<h3 align="center">I'm a broke full stack mobile developer (cross-platform) who is greatly interested in techs like deep learning, web3, generative arts,mobile dev...</h3>
 
 - 🔭 I’m currently working on **a private flutter app**
 
