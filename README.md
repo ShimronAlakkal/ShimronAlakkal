@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Firebase, JS and Node js**
 
-- 📚 My primary stack is **FLUF** (flutter & firebase)
+- 📚 My primary stack is **FLUF** (flutter & firebase), but, i'm also experienced in python, frameworks like flask, fastapi, pandas, NP, plt, etc.
 
 - 👯 I’m looking to collaborate on **any python/dart/sql/dl/ai based projects**
 
