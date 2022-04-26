@@ -3,15 +3,12 @@
 
 - 🔭 I’m currently working on **a private flutter app**
 
-- 🌱 I’m currently learning **Firebase, JS and Node js**
+- 🌱 I’m currently learning **Node js and other backend techs**
 
 - 📚 My primary stack is **FLUF** (flutter & firebase), but, i'm also experienced in python, frameworks like flask, fastapi, pandas, NP, plt, etc.
 
-- 👯 I’m looking to collaborate on **any python/dart/sql/dl/ai based projects**
 
-- 💬 Ask me about **anything I've got experience in and I'll try to help you**
-
-- 📫 How to reach me **shimron.alakkal1804@gmail.com**
+- 📫 Reach me at **shimron.alakkal1804@gmail.com**
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shimronalakkal&show_icons=true&locale=en&layout=compact" alt="shimronalakkal" /></p>
@@ -23,3 +20,12 @@
 <a href="https://dev.to/@shimronalakkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@shimronalakkal" height="30" width="40" /></a> 
 <a href="https://instagram.com/shimron.alakkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shimron.alakkal" height="30" width="40" /></a>
 </p>
+
+
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ShimronAlakkal/github-readme-activity-graph"><img alt="ShimronAlakkal's Activity Graph" src="https://ShimronAlakkal-activity-graph.herokuapp.com/graph/?username=ShimronAlakkal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
