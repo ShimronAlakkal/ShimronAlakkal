@@ -1,15 +1,3 @@
-<h1 align="center">Hi 👋, I'm Shimron</h1>
-<h3 align="center">I'm a mobile developer (cross-platform) who is greatly interested in techs like deep learning, web3, generative arts,mobile dev...</h3>
-
-- 🔭 I’m currently working on **a private flutter app**
-
-- 🌱 I’m currently learning **Node js and other backend techs**
-
-- 📚 My primary stack is **FLUF** (flutter & firebase), but, i'm also experienced in python, frameworks like flask, fastapi, pandas, NP, plt, etc.
-
-
-- 📫 Reach me at **shimron.alakkal1804@gmail.com**
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shimronalakkal&show_icons=true&locale=en&layout=compact" alt="shimronalakkal" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shimronalakkal&show_icons=true&locale=en" alt="shimronalakkal" />
