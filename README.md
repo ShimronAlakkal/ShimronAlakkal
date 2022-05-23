@@ -10,10 +10,3 @@
 </p>
 
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ShimronAlakkal/github-readme-activity-graph"><img alt="ShimronAlakkal's Activity Graph" src="https://ShimronAlakkal-activity-graph.herokuapp.com/graph/?username=ShimronAlakkal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
