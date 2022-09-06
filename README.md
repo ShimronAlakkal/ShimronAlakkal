@@ -43,5 +43,8 @@
 <a href="https://medium.com/@shimronalakkal"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
+# 
+
+[`Instagram`](https://instagram.com/shimron.alakkal)
 
 
