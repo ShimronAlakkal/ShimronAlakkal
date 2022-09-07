@@ -27,7 +27,7 @@
 
 # 
 
-<h2> Stats </h2>
+<h2 align="left"> Stats </h2>
 <p>
 <div align='left'>
 
@@ -39,7 +39,7 @@
 
 # 
 
-<h2> Langs & Extensions </h2>
+<h2 align="left"> Langs & Extensions </h2>
 <p>
 <div align="left">
 
