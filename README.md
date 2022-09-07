@@ -13,7 +13,7 @@
             <p>
             <h3>[`Fraction`](https://github.com/Fraction-Technologies/) </h3>
             Founder and SWD at [`Fraction`](https://shimronalakkal.github.io/fraction_web).
-            Fraction is an free & open-source platform for stock/crypto market participants for taking profitable trades. Primarily developed as a simple mobile app, [`Fraction app`](https://play.google.com/store/apps/details?id=com.shimronalakkal.fraction) allows you to analyse financial market data, keep a log of the trades taken, keep a transactions log, find pivot points and correct lot sizes, and learn about the stock market among other things.
+            Fraction -- a free & open-source project -- is a platform for stock/crypto market participants for taking profitable trades. Primarily developed as a simple mobile app, [`Fraction app`](https://play.google.com/store/apps/details?id=com.shimronalakkal.fraction) allows you to analyse financial market data, keep a log of the trades taken, keep a transactions log, find pivot points and correct lot sizes, and learn about the stock market among other things.
             </p>
         </br>
     </details>
@@ -36,12 +36,15 @@
 
 </div>
 </p>
+
+# 
+
+<h2> Langs & Extensions </h2>
 <p>
 <div align="left">
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shimronalakkal&show_icons=true&locale=en&layout=compact" alt="shimronalakkal" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ShimronAlakkal&custom_title=Most%20Used%20Extensions&langs_count=3&hide_border=true&hide=html,css,MATLAB' alt='Top-Langs'> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shimronalakkal&show_icons=true&locale=en&layout=compact" alt="shimronalakkal" />
 
 </div>
 </p>
