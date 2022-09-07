@@ -30,10 +30,19 @@
 <h2> Stats </h2>
 <p>
 <div align='left'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ShimronAlakkal&custom_title=Most%20Used%20Extensions&langs_count=3&hide_border=true&hide=html,css,MATLAB' alt='Top-Langs'>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shimronalakkal&show_icons=true&locale=en" alt="shimronalakkal" />
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shimronalakkal&" alt="shimronalakkal" />
+
+</div>
+</p>
+<p>
+<div align="left">
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shimronalakkal&show_icons=true&locale=en&layout=compact" alt="shimronalakkal" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ShimronAlakkal&custom_title=Most%20Used%20Extensions&langs_count=3&hide_border=true&hide=html,css,MATLAB' alt='Top-Langs'> 
+
 </div>
 </p>
 
