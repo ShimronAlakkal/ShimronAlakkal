@@ -31,11 +31,11 @@
 <p>
 <div align='left'  style="display: flex; flex-direction: row;">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=shimronalakkal&show_icons=true&locale=en" alt="shimronalakkal" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shimronalakkal&" alt="shimronalakkal" />
+<img src="https://github-readme-stats.vercel.app/api?username=shimronalakkal&show_icons=true&locale=en" alt="shimronalakkal" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=shimronalakkal&" alt="shimronalakkal" />
 
-<img align="left" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ShimronAlakkal&custom_title=Most%20Used%20Extensions&langs_count=3&hide_border=true&hide=html,css,MATLAB' alt='Top-Langs'> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shimronalakkal&show_icons=true&locale=en&layout=compact" alt="shimronalakkal" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ShimronAlakkal&custom_title=Most%20Used%20Extensions&langs_count=3&hide_border=true&hide=html,css,MATLAB' alt='Top-Langs'> 
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shimronalakkal&show_icons=true&locale=en&layout=compact" alt="shimronalakkal" />
     
 </div>
 
