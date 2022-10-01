@@ -5,28 +5,21 @@
     <details>
         <summary>more...</summary>
         <br>
-        
-        
             <p>
             <h3>[`Zellow`](https://www.linkedin.com/company/82349680/) </h3>
             I'm the co-founder and CEO at [`Zellow Technologies Pvt. Ltd.`](https://www.linkedin.com/company/82349680/)
             [`Zellow`](https://www.linkedin.com/company/82349680/) is an innovative startup, registered in India under the MCA, currently in development, expected to be released in about 3 months (from Sep 05 2022), that is primarily focused on hyper-efficient systems and networks. A team effort onto making a better solution to a problem that exists, engineered & designed primarily by me.
             </p>
-            
-            
             <p>
             <h3>[`Fraction`](https://github.com/Fraction-Technologies/) </h3>
             Founder and SWD at [`Fraction`](https://shimronalakkal.github.io/fraction_web).
             Fraction -- a free & open-source project -- is a platform for stock/crypto market participants for taking profitable trades. Primarily developed as a simple mobile app, [`Fraction app`](https://play.google.com/store/apps/details?id=com.shimronalakkal.fraction) allows you to analyse financial market data, keep a log of the trades taken, keep a transactions log, find pivot points and correct lot sizes, and learn about the stock market among other things.
             </p>
-            
             <p>
             <h3>[`LawBook`](https://github.com/lawbook/) </h3>
             Developing the LawBook app.
             LawBook -- a free & open-source project -- is a platform for practicing Lawyers, from India for the most part, to curate, modify, be informed about their cases & files with the help of their team and other organizations. Primarily developed as a simple mobile app, [`LawBook`](https://play.google.com/store/apps/details?id=com.shimronalakkal.fraction) is set to hit the market pretty soon...
             </p>
-            
-            
         </br>
     </details>
 
