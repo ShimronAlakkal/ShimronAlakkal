@@ -16,9 +16,9 @@
             Fraction -- a free & open-source project -- is a platform for stock/crypto market participants for taking profitable trades. Primarily developed as a simple mobile app, [`Fraction app`](https://play.google.com/store/apps/details?id=com.shimronalakkal.fraction) allows you to analyse financial market data, keep a log of the trades taken, keep a transactions log, find pivot points and correct lot sizes, and learn about the stock market among other things.
             </p>
             <p>
-            <h3>[`LawBook`](https://github.com/lawbook/) ( previously Crewer ) </h3>
+            <h3>[`LawBook`](https://github.com/lawbook/) (previously Crewer) </h3>
             Developing the LawBook app.
-            LawBook -- a free & open-source project -- is a platform for practicing Lawyers, from India for the most part, to curate, modify, and be informed about their cases & files with the help of their team and other organizations. Primarily developed as a simple mobile app, [`LawBook`](https://play.google.com/store/apps/details?id=com.shimronalakkal.fraction) is set to hit the market pretty soon...
+            LawBook is a free platform for practicing Lawyers, from India for the most part, to curate, modify, and be in control about their cases & files, and its details with the help of their team and other organizations. Primarily developed as a simple mobile app, [`LawBook`](https://play.google.com/store/apps/details?id=com.shimronalakkal.fraction) is set to hit the market pretty soon...
             </p>
         </br>
     </details>
