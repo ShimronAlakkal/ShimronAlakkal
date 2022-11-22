@@ -1,4 +1,4 @@
-# 🙋‍♂️Hi, I'm Shimron.
+# ⬛️ Hi, I'm Shimron.
 <img src="https://github.com/ShimronAlakkal/ShimronAlakkal/blob/main/banner.png?raw=true" alt="Shimron Alakkal's banner">
 
 > I'm a self-taught software developer from India. Interested in AI,deep learning, mobile app development, AR coding,game development, etc.. FLUF is currently my main stack.
