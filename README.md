@@ -52,6 +52,16 @@
 </div>
 
 
+<h2 align="left"> Leetcode Stats </h2>
+<p>
+<div align='left'  style="display: flex; flex-direction: row;">
+
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=cremCake)](https://github.com/KnlnKS/leetcode-stats)
+
+
+</div>
+<p>
+
 #
 
 <h2 align="left">Articles.</h2>
