@@ -11,6 +11,11 @@
             [`Zellow`](https://www.linkedin.com/company/82349680/) is an innovative startup, registered in India under the MCA, currently in development, expected to be released in about 3 months (from Sep 05 2022), that is primarily focused on hyper-efficient systems and networks. A team effort onto making a better solution to a problem that exists, engineered & designed primarily by me.
             </p>
             <p>
+            <h3>[`Fly`](https://flyze.vercel.app) by Zellow.</h3>
+            Get your higher education done in the USA!!
+            Fly is a platform that you can use to get your studies done in the USA. We've had over one crore Rupees in scholarships given to the students for bachelors in the USA.
+            </p>
+            <p>
             <h3>[`Fraction`](https://github.com/Fraction-Technologies/) </h3>
             Founder and SWD at [`Fraction`](https://shimronalakkal.github.io/fraction_web).
             Fraction -- a free & open-source project -- is a platform for stock/crypto market participants for taking profitable trades. Primarily developed as a simple mobile app, [`Fraction app`](https://play.google.com/store/apps/details?id=com.shimronalakkal.fraction) allows you to analyse financial market data, keep a log of the trades taken, keep a transactions log, find pivot points and correct lot sizes, and learn about the stock market among other things.
